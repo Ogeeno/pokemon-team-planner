@@ -2,7 +2,7 @@
 A non-competitive team planner tool for mainline Pokémon games.
 
 Current version supports all games.
-**[Start selecting a game→](https://richi3f.github.io/pokemon-team-planner/)**
+**[Start selecting a game→](https://ogeeno.github.io/pokemon-team-planner/)**
 
 ## Contribute
 
