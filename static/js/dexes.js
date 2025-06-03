@@ -10672,7 +10672,7 @@ export default {
         }
     },
     "indigo_rom": {
-        "name": "New Pok\u00e9dex",
+        "name": "Modern Pok\u00e9dex",
         "order": {
             "1": [ [ 1, 0 ] ],
             "2": [ [ 2, 0 ] ],
