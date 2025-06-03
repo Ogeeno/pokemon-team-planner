@@ -214,19 +214,7 @@ export default {
     "rom": {
         "name": "Modern Indigo ROM",
         "gen": 9,
-        "dex_slugs": [
-            "kanto_home",
-            "johto_home",
-            "hoenn_home",
-            "sinnoh_home",
-            "unova_home",
-            "kalos_home",
-            "alola_home",
-            "galar_home",
-            "hisui_home",
-            "paldea_home",
-            "other_home"
-        ],
+        "dex_slugs": ["indigo_rom"],
         "mega": true,
         "gmax": true,
         "tera": true,
