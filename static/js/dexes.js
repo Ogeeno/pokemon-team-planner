@@ -1,6 +1,6 @@
 export default {
         "indigo_rom": {
-        "name": "Modern Pok\u00e9dex",
+        "name": "Generational Pok\u00e9dex",
         "order": {
             "1": [ [ 1, 0 ] ],
             "2": [ [ 2, 0 ] ],
