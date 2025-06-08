@@ -1,6 +1,6 @@
 export default {
     "rom": {
-        "name": "Modern Indigo ROM",
+        "name": "Generational Yellow",
         "gen": 9,
         "dex_slugs": ["indigo_rom"],
         "mega": true,
